@@ -1,0 +1,50 @@
+body {
+  background-color: seashell;
+  color: palevioletred;
+  font-family: Cursive;
+  font-style: oblique;
+  padding-left: 20px;
+}
+
+h1 {
+  color: DarkMagenta;
+  text-align: center;
+}
+h2 {
+  color: Magenta;
+  text-align: left;
+  font-size: 14px;
+}
+h3 {
+  color: Indigo;
+}
+p {
+  font-family: Cursive;
+  font-style: oblique;
+  font-size: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.contactInfo {
+	font-size: 14px;
+	color: steelblue;
+	text-align: center;
+}
+a {
+  color: hotpink;
+  font-family: Cursive;
+  font-style: oblique;
+  font-size: 14px;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: blue;
+}
+img { 
+  border: 2px solid steelblue;
+  border-radius: 5px;
+  padding: 5px;
+  width: 215px;
+}
